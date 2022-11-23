@@ -6,4 +6,4 @@ folium
 pandarallel
 catboost
 seaborn
-git+https://github.com/h2oai/pystacknet
+lightgbm
